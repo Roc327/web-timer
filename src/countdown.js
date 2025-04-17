@@ -1,4 +1,5 @@
 import { sleep } from "./sleep.js";
+import { displayTimer } from "./display.js";
 
 function countdown(hours, minutes, seconds) {
   // The main countdown function. Takes in time in seconds,
